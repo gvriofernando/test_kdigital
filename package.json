@@ -10,7 +10,11 @@
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.2",
+    "crypto": "^1.0.1",
     "express": "^4.17.3",
-    "mysql": "^2.18.1"
+    "moment": "^2.29.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.15",
+    "redis": "^4.0.4"
   }
 }
